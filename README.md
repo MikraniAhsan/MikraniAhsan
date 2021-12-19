@@ -1,9 +1,7 @@
  Hi there 👋, Ahsan here.
  
- I am pursuing my B.Tech CSE in SNU.
+ I am pursuing my B.Tech CSE at SNU.
 
-- 🌱 I’m currently learning Java, javascript
-- 👯 I’m looking to collaborate on project related to C++
-- 🤔 I’m looking for help with Java
-- 💬 Ask me about C and C++
+- 🌱 I’m currently learning MERN Stack Development and Python
+- 💬 Ask me about C Programming Language and DSA
 - ⚡ Fun fact: love to play cricket
